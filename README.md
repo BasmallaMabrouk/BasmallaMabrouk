@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 🎓 **Computer Science Graduate** — Egyption Korean  Faculty of Technological Industry and Enargy, **Beni Suef University** (Class of 2025)
 
-🏫 Currently a **Trainee at ITI (Information Technology Institute)** — sharpening my skills every day.
+🏫 Currently a **Graduated From ITI (Information Technology Institute)** — sharpening my skills every day.
 
 💡 I'm a **Fullstack .NET Developer** who is deeply passionate about building clean, scalable web applications from front to back.
 
